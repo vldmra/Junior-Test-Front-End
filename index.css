@@ -1,0 +1,71 @@
+.page{
+  position: relative;
+}
+
+.logo img{
+  float: left;
+  width: 50px;
+  height: 50px;
+}
+
+.logo figcaption{
+  font-size: 1.5em;
+  line-height: 1.75em;
+}
+
+.slider-image{
+  width: 100%;
+  height: 500px !important;
+}
+
+.alert_forms{
+  margin-top: -350px;
+  left: 70%;
+}
+
+.alert_forms form{
+  width: 75%;
+}
+
+article{
+  margin-top: 70px;
+}
+
+article p{
+  text-indent: 5%;
+}
+
+article a{
+  text-decoration: underline;
+}
+
+.article_text{
+  margin-top: 50px;
+}
+
+footer{
+  margin-top: 50px;
+  border: dotted;
+}
+
+footer div{
+  margin-top: 20px;
+}
+
+footer textarea{
+  width: 70%;
+}
+
+.about_us{
+  border-right: 1px solid;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.contact_page{
+  margin-top: 0px;
+}
+
+.contact_page a{
+  text-decoration: underline;
+}
